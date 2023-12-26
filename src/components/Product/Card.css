@@ -1,0 +1,23 @@
+.product-img{
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+.price{
+    color: red;
+    line-height: 0px;
+}
+.category{
+    background: rgb(32, 125, 211);
+    border-radius: 5px;
+
+}
+ .search-product{ 
+        width: 48%;
+    }
+
+ @media (max-width: 991.98px) { 
+     .search-product{ 
+        width: 89%;
+    }
+  }
